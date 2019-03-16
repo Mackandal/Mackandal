@@ -1,3 +1,3 @@
 # Mackandal (MACK)
-* Supply - 50m
-* Decimal - 
+* Supply - 100 billion
+* Decimal - 3
